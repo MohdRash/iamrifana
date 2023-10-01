@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/iamrifana/static/css/main.874d8273.css",
+    "main.js": "/iamrifana/static/js/main.0199d526.js",
+    "static/media/site-bg.jpg": "/iamrifana/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/services.png": "/iamrifana/static/media/services.8e66d4fbbd95de45b8db.png",
+    "static/media/about.png": "/iamrifana/static/media/about.40c4531cd1331f29e5eb.png",
+    "static/media/portfolio-img2.jpeg": "/iamrifana/static/media/portfolio-img2.fa05cb2dcc54a7e355a7.jpeg",
+    "static/media/portfolio-img1.jpeg": "/iamrifana/static/media/portfolio-img1.d9cefc1baf4494f484be.jpeg",
+    "static/media/logo.png": "/iamrifana/static/media/logo.25bf8ebedd5314ba54d2.png",
+    "static/media/portfolio-img3.jpeg": "/iamrifana/static/media/portfolio-img3.09efb351ed0575550c0a.jpeg",
+    "static/media/educ.gif": "/iamrifana/static/media/educ.2b3048e5583e4ee77653.gif",
+    "index.html": "/iamrifana/index.html",
+    "main.874d8273.css.map": "/iamrifana/static/css/main.874d8273.css.map",
+    "main.0199d526.js.map": "/iamrifana/static/js/main.0199d526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.874d8273.css",
+    "static/js/main.0199d526.js"
+  ]
+}
